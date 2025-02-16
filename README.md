@@ -132,9 +132,10 @@ All scripts for each section of the RNA-seq pipeline are designed to be executed
 
 ```bash
 sbatch <script_name>.sh
+```
 
 ## Acknowledgements
 
-This pipeline has benefited from the resources and support of the **High Performance Computing (HPC) Cluster at Pontificia Universidad Javeriana**. Special thanks to the staff for their continuous assistance and services that made this computational work possible.
+This pipeline has benefited from the resources and support of the **High Performance Computing (HPC) Cluster at Pontificia Universidad Javeriana**. Special thanks to **Juan Guillermo Torres Hurtado** for his continuous assistance and services that made this computational work possible.
 
 For any questions or issues related to the pipeline, please feel free to open an issue or contact the contributors.
