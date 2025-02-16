@@ -1,0 +1,14 @@
+/opt/data/HPC01A/alexis_rojasc/OSA_RNA-seq/Control_quality/FastQC_Raw/FastQC_Output
+/opt/data/HPC01A/alexis_rojasc/OSA_RNA-seq/Control_quality/FastQ_Screen/FastQ_Screen_Output
+/opt/data/HPC01A/alexis_rojasc/OSA_RNA-seq/Control_quality/FastQC_Clean/FastQC_Output
+/opt/data/HPC01A/alexis_rojasc/OSA_RNA-seq/RNA_ribosomal/SortMeRNA/sortmerna_output
+/opt/data/HPC01A/alexis_rojasc/OSA_RNA-seq/RNA_ribosomal/FastQ_Screen/SortMeRNA/FastQ_Screen_Output
+/opt/data/HPC01A/alexis_rojasc/OSA_RNA-seq/RNA_ribosomal/FastQ_Screen/Ribodetector/FastQ_Screen_Output
+/opt/data/HPC01A/alexis_rojasc/OSA_RNA-seq/Mapping/STAR-RSEM/output
+/opt/data/HPC01A/alexis_rojasc/OSA_RNA-seq/Mapping/STAR-RSEM/output/RSEM_results
+/opt/data/HPC01A/alexis_rojasc/OSA_RNA-seq/Mapping_quality/genome/Samtools
+/opt/data/HPC01A/alexis_rojasc/OSA_RNA-seq/Mapping_quality/genome/Picard/Duplicates
+/opt/data/HPC01A/alexis_rojasc/OSA_RNA-seq/Mapping_quality/genome/Preseq/lc_extrap
+/opt/data/HPC01A/alexis_rojasc/OSA_RNA-seq/Mapping_quality/genome/RSeQC
+/opt/data/HPC01A/alexis_rojasc/OSA_RNA-seq/Mapping_quality/genome/Qualimap/qualimap_results
+/opt/data/HPC01A/alexis_rojasc/OSA_RNA-seq/Gene_biotype/feature_results
